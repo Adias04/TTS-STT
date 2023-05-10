@@ -2,7 +2,5 @@ Flask
 gTTS
 requests
 SpeechRecognition
-tempfile
-pathlib
 
 gunicorn
