@@ -1,4 +1,4 @@
-Flask==2.0.3
-pyttsx3==2.92
-SpeechRecognition==3.8.1
+Flask
+pyttsx3
+SpeechRecognition
 gunicorn
