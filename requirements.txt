@@ -1,4 +1,8 @@
 Flask
-pyttsx3
+gTTS
+requests
 SpeechRecognition
+tempfile
+pathlib
+
 gunicorn
