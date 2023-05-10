@@ -1,6 +1,4 @@
-requests
-SpeechRecognition
-pyttsx3
-flask 
-pathlib 
+Flask==2.0.3
+pyttsx3==2.92
+SpeechRecognition==3.8.1
 gunicorn
